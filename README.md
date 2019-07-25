@@ -14,15 +14,18 @@ Exemplo: Evento interessante
 ## Product Backlog
 
 ### 1. Controle de Acesso
-Logar
+- Logar
+
 Como um colaborador, eu gostaria de me logar na aplicação usando minha conta corporativa. Desta forma,
 espero ter acesso às demais funcionalidades do App.
-Deslogar
+- Deslogar
+
 Como um colaborador, por questões de segurança, eu gostaria de me deslogar da aplicação, evitando que
 outras pessoas tenham acesso às minhas informações ou para permitir que outro usuário possa se logar.
 
 ### 2. Gerenciar Invites
-Criar Invite
+- Criar Invite
+
 Como usuário, eu desejo criar um convite para que eu possa enviá-lo para colegas informando-os sobre “coisas” que
 podem ser interessantes.
 Critérios de Aceitação
@@ -79,7 +82,8 @@ Critérios de Aceitação
 solicitar a confirmação do usuário antes de proceder com o arquivamento.
 
 ### 3. Compartilhar Invites
-Enviar Invite criado para colega
+- Enviar Invite criado para colega
+
 Como usuário que criou um convite, eu desejo enviá-lo para um colega para que ele tome conhecimento e possa tirar
 proveito daquela informação.
 Critério de Aceitação
@@ -109,7 +113,8 @@ Critério de Aceitação
 • Ao agradecer, o usuário que enviou o invite deverá receber uma notificação.
 
 ### 4. Reconhecer Colaboradores
-Ganhar pontos pelo compartilhamento de Invite
+- Ganhar pontos pelo compartilhamento de Invite
+
 Como usuário, eu desejo receber pontos toda vez que alguém encaminhar um invite que eu mandei. Mesmo que eu
 não tenha criado o Invite originalmente, eu também gostaria de ser reconhecido por aquela cadeia de
 compartilhamentos.
